@@ -41,5 +41,8 @@ Sentiment analysis, also known as opinion mining, is a field of Natural Language
  * Explainable Sentiment Analysis: Developing methods to provide explanations for the model's predictions, increasing transparency and trust.
 **conclusion**
 Sentiment analysis with NLP is a rapidly evolving field with numerous applications across various industries. As NLP techniques and models continue to advance, sentiment analysis is becoming increasingly accurate and sophisticated, providing valuable insights into human emotions and opinions.
+**OUTPUT**
+Model Accuracy: 0.00
+Predicted Sentiment: Positive
 
 
